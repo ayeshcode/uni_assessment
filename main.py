@@ -379,7 +379,7 @@ def main():
         elif choice == 9:
             sign_up_for_account()
         else:
-            print("Invalid choice. Please try again..")
+            print("Invalid choice. Please try again.")
         choice = main_menu()
 
     print("Thank you for using the AZA Restaurant digital management platform!")
